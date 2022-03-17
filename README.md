@@ -19,3 +19,6 @@ https://getbootstrap.com/docs/5.1/utilities/background/
 
 Padding from:
 https://getbootstrap.com/docs/5.1/utilities/spacing/
+
+How to publish a GitHub page from:
+https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
