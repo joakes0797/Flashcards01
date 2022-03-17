@@ -10,3 +10,6 @@ Collapse Template from:
 https://getbootstrap.com/docs/5.1/components/collapse/
 
 Content from Week 1 TrueCoders documents
+
+Escape characters from:
+https://mateam.net/html-escape-characters/
