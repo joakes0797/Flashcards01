@@ -13,3 +13,9 @@ Content from Week 1 TrueCoders documents
 
 Escape characters from:
 https://mateam.net/html-escape-characters/
+
+Background color from:
+https://getbootstrap.com/docs/5.1/utilities/background/
+
+Padding from:
+https://getbootstrap.com/docs/5.1/utilities/spacing/
