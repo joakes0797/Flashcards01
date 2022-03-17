@@ -21,4 +21,4 @@ Padding from:
 https://getbootstrap.com/docs/5.1/utilities/spacing/
 
 How to publish a GitHub page from:
-https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
+https://medium.com/singapore-rails-learning-group/how-to-push-your-code-to-github-and-publish-your-first-page-8b0e1f4caf2a
